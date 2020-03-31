@@ -7,6 +7,8 @@ Links to the trained models can be found below:
 - [InceptionV3 with GRU](https://drive.google.com/open?id=1Z7Jd-DGfkLr9ZOkNOqbjKBGXD0k_uOWn) - 93% validation accuracy - 260Mb
 - [MobileNets with GRU](https://drive.google.com/open?id=1MPBCbcfBKjDg2-IC2LdVLO6G0JEHEX4v) - 89% validation accuracy - 42Mb
 
+Training for all networks have been performed using Nvidia Tesla K80. For more details visit, [Nimblebox.](https://www.nimblebox.ai/)
+
 #### Experiment 1: Conv2D+LSTM 
 Six Conv2D (Batch normalization+ Max Pooling) Layer -> LSTM -> Dense Layer -> Softmax
 Batch size:  32 Epoch: 25 Training Samples: 256 Total Parameters: 4,010,725
