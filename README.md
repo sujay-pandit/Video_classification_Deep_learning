@@ -1,6 +1,9 @@
 # Video_classification_Deep_learning
 
-Links to the trained model can be found below:
+Link to the dataset:
+- [Dataset](https://drive.google.com/open?id=1KdyHxZxQlvZGgPlAHG-eJXSuZQ3S9Kns)
+
+Links to the trained models can be found below:
 - [InceptionV3 with GRU](https://drive.google.com/open?id=1Z7Jd-DGfkLr9ZOkNOqbjKBGXD0k_uOWn) - 93% validation accuracy - 260Mb
 - [MobileNets with GRU](https://drive.google.com/open?id=1MPBCbcfBKjDg2-IC2LdVLO6G0JEHEX4v) - 89% validation accuracy - 42Mb
 
