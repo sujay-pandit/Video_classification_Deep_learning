@@ -1,4 +1,4 @@
-# Video_classification_Deep_learning
+# Gesture classification through videos using hybrid CNN - RNN networks and Transfer learning.
 
 Link to the dataset:
 - [Dataset](https://drive.google.com/open?id=1KdyHxZxQlvZGgPlAHG-eJXSuZQ3S9Kns)
